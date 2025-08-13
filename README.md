@@ -1,6 +1,6 @@
 # Personal Developer Portfolio - DevMarcos
 
-This is my personal portfolio, a single-page application (SPA) built from the ground up to be the hub of my digital presence. It showcases my projects and demonstrates my skills in building rich, interactive, and well-structured user interfaces with vanilla JavaScript.
+This is my personal portfolio, a single-page application built from the ground up to be the hub of my digital presence. It showcases my projects and demonstrates my skills in building rich, interactive, and well-structured user interfaces with vanilla JavaScript.
 
 **Live Demo:** [https://YOUR_PORTFOLIO_URL.com](https://YOUR_PORTFOLIO_URL.com)
 
